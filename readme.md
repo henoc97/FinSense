@@ -1,6 +1,6 @@
 # 📊 FinSense - Prédiction boursière & Dashboard interactif
 
-- [ ]
+Bienvenue dans **FinSense**, un projet personnel de Data Science visant à **prédire l'évolution des actions boursières** à court terme en utilisant des **techniques de machine learning**, le tout présenté dans une **application interactive développée avec Streamlit**.
 
 ## 🎯 Objectifs du projet
 
@@ -14,13 +14,13 @@
 
 ## 🛠️ Technologies & bibliothèques
 
-- [ ] **Langage** : Python 3.10+
-- [ ] **Analyse de données** : Pandas, NumPy
-- [ ] **Visualisation** : Matplotlib, Seaborn, Plotly
-- [ ] **Machine Learning** : Scikit-learn, XGBoost
-- [ ] **Web App** : Streamlit
-- [ ] **Données** : [Yahoo Finance](https://finance.yahoo.com) via `yfinance`
-- [ ] **Déploiement** : Heroku / Streamlit Cloud (à venir)
+- **Langage** : Python 3.10+
+- **Analyse de données** : Pandas, NumPy
+- **Visualisation** : Matplotlib, Seaborn, Plotly
+- **Machine Learning** : Scikit-learn, XGBoost
+- **Web App** : Streamlit
+- **Données** : [Yahoo Finance](https://finance.yahoo.com) via `yfinance`
+- **Déploiement** : Heroku / Streamlit Cloud (à venir)
 
 ---
 
@@ -98,32 +98,16 @@ streamlit run app/dashboard.py
 
 ## 👤 Auteur
 
-**Hénoc AMAVIGAN**
+**[Hénoc AMAVIGAN]**
 
 Data Science Enthusiast | Étudiant BUT SD | Passionné de finance & IA
 
-📧 Email : [amaviganhenoc@email.com](mailto:ton@email.com)
+📧 Email : [amaviganhenoc@email.com](mailto:amaviganhenoc@email.com)
 
-📎 LinkedIn : [https://www.linkedin.com/in/henoc-amavigan/](https://www.linkedin.com/in/henoc-amavigan/)
+📎 LinkedIn : [linkedin.com/in/henoc-amavigan](https://linkedin.com/in/henoc-amavigan)
+
+---
 
 ## 📝 Licence
 
 Ce projet est sous licence **MIT** – voir le fichier LICENSE pour plus de détails.
-
----
-
-### ✅ Étapes suivantes pour toi :
-
-1. Crée un repo GitHub et copie ce `README.md` à la racine.
-2. Modifie avec ton nom, ton lien LinkedIn et les chemins réels de ton projet.
-3. Mets à jour régulièrement le README à chaque avancée.
-
----
-
-Si tu veux, je peux :
-
-- te générer aussi le `requirements.txt`,
-- t’aider à structurer le code proprement dans des fichiers `.py`,
-- ou t’écrire un mini `dashboard.py` starter avec Streamlit.
-
-Tu veux que je t’aide avec lequel ?

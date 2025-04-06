@@ -1,7 +1,3 @@
-Excellent choix ! La **finance** est un domaine riche pour un data scientist, avec beaucoup de données, des problèmes concrets à résoudre, et surtout une forte demande en entreprise. Et combiner **Machine Learning** + **Dash/Streamlit** te place sur une très bonne trajectoire technique. 🚀
-
----
-
 ## 💼 Ton Projet Personnel :
 
 # **"FinSense : Prédiction des tendances boursières & tableau de bord interactif"**
@@ -104,14 +100,3 @@ Créer un système capable de **prévoir l’évolution du prix d'une action** o
 ### 🧠 Bonus idée de suite :
 
 Tu pourrais, plus tard, ajouter un module de **recommandation d’actions** basé sur les performances passées, ou un algorithme de **gestion de portefeuille automatique** .
-
----
-
-Souhaite-tu que je t’aide à :
-
-1. Te créer un GitHub propre avec ce projet ?
-2. Écrire un `README.md` professionnel ?
-3. Planifier ce projet en mode “calendrier mois par mois” ?
-4. Créer une maquette de l’app Streamlit ?
-
-Dis-moi ce que tu veux pour la suite !
