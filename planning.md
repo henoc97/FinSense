@@ -29,8 +29,7 @@ Un projet complet en **data science appliquée à la finance** , avec **explorat
 
 > ⏱️ **Durée : 4 à 5 semaines**
 
-- 📊 EDA avec Pandas, Seaborn, Plotly :
-  - Volatilité, corrélations, rendements, tendances
+- 📊 EDA avec Pandas, Seaborn, Plotly :- Volatilité, corrélations, rendements, tendances
 - 🧠 Création d’indicateurs techniques :
   - SMA, EMA, RSI, MACD, Bollinger, etc.
 - 🏗️ Transformation des données pour ML :
